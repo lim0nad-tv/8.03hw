@@ -48,7 +48,7 @@
    git push origin main
    ```
 6. ✅ Ссылка на коммит:  
-   🔗 [ede00a7](https://github.com/lim0nad-tv/8.03hw/commit/ede00a7822a34d17bf1a014692ee40e235c92694)
+   🔗 [f902269](https://github.com/netology-code/sys-pattern-homework/commit/f902269efc4ab34226ef8da76d008e7b74286f43)
 
 ---
 
@@ -68,7 +68,7 @@
    git push origin main
    ```
 3. ✅ Ссылка на коммит:  
-   🔗 [b71e17e](https://github.com/lim0nad-tv/8.03hw/commit/b71e17e3402428cb841396f76ecb32f44e026194)
+   🔗 [b1e97d9f](https://github.com/netology-code/sys-pattern-homework/commit/1e97d9fd374d5ad70e66593aeacfd725ed9c7c0f)
 
 ---
 
